@@ -2,3 +2,5 @@
 ## Just Git
 
 ## Developer1 Branch
+
+## Developer2 Branch
